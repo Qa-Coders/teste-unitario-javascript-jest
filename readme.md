@@ -1,11 +1,11 @@
 ### Exemplo teste unitário - JavaScript + Jest
 
 ## Como iniciar o projeto
-´´´bash
+```bash
     npm install
-´´´
+```
 
 ## Como executar
-´´´bash
+```bash
     npm run test
-´´´
+```
